@@ -6,7 +6,7 @@ const bgColor = Color(0xFF212332);
 const defaultPadding = 16.0;
 
 // TODO: change according to yours
-const MAIN_URL = 'http://localhost:8080';
+const MAIN_URL = 'http://localhost:3000';
 const currency_symbol = "৳";
 
 // product summary info
