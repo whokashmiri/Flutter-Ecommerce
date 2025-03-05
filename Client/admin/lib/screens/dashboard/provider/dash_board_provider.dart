@@ -53,7 +53,7 @@ class DashBoardProvider extends ChangeNotifier {
   addProduct() async {
     try {
       if (selectedMainImage == null) {
-        SnackBarHelper.showErrorSnackBar('Please choose an image!');
+        SnackBarHelper.showErrorSnackBar('Please Choose An Image!');
         return; // do not continue
       }
 
