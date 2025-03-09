@@ -55,6 +55,6 @@ app.use((error, req, res, next) => {
   res.status(500).json({ success: false, message: error.message, data: null });
 });
 
-app.listen(process.env.PORT, () => {
+app.listen(process.env.PORT, '0.0.0.0', () => {
   console.log(`Server Up and Serving On Port: ${process.env.PORT}`);
 });
