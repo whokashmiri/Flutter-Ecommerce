@@ -45,6 +45,8 @@ flutter:
     - assets/images/logo.png
     - assets/images/google.png
     - assets/images/apple.png
+    - assets/images/empty_cart.png
+    - assets/images/profile_pic.png
 
   fonts:
     - family: SF Pro Rounded
