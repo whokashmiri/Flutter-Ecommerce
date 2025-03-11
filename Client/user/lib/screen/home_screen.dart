@@ -1,14 +1,9 @@
-import 'dart:async';
-import 'dart:io';
-
 import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
-import 'package:user/utility/constants.dart';
 
 import '../../../utility/app_data.dart';
 import '../../../widget/page_wrapper.dart';
 import '../utility/functions.dart';
-import '../utility/snack_bar_helper.dart';
 import 'product_cart_screen/cart_screen.dart';
 import 'product_favorite_screen/favorite_screen.dart';
 import 'product_list_screen/product_list_screen.dart';

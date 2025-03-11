@@ -3,7 +3,6 @@ import 'package:user/utility/constants.dart';
 
 import '../../../models/category.dart';
 import '../../../utility/animation/open_container_wrapper.dart';
-import '../../../utility/app_color.dart';
 import '../../product_by_category_screen/product_by_category_screen.dart';
 
 class CategorySelector extends StatelessWidget {
